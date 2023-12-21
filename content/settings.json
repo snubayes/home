@@ -1,0 +1,48 @@
+{
+  "siteMetadata": {
+    "language": "kr",
+    "siteUrl": "https://snubayes.org/",
+    "title": "SNUBAYES",
+    "titleTemplate": "%s · SNUBAYES",
+    "thumbnail": "../content/images/logo/snubayes-og.png",
+    "description": "서울대학교 베이즈통계 연구실의 웹사이트입니다.",
+    "author": "SNUBAYES",
+    "avatar": "../content/images/logo/logo-w.png",
+    "bio": "서울대학교 베이즈통계 연구실입니다.",
+    "social": {
+      "behance": "",
+      "github": "https://github.com/snubayes",
+      "medium": "",
+      "linkedin": "",
+      "mail": "mailto:labjang@snubayes.org"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "SNUBAYES" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Posts", "url": "/blog" },
+        { "label": "People", "url": "/people" },
+        { "label": "Subjects", "url": "/#subjects" },
+        { "label": "Publications", "url": "/publications" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "",
+        "url": "/"
+      },
+      "footer": [
+        { "label": "snubayes", "url": "/" },
+        { "label": "privacy", "url": "/privacy" },
+        { "label": "imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

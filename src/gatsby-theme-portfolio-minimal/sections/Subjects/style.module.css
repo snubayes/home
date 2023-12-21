@@ -1,0 +1,50 @@
+.Subjects {
+    display: grid;
+    grid-template-columns: repeat(1, 17.5rem);
+    grid-auto-flow: row;
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+
+.Subject {
+    width: 17.5rem;
+    height: 3rem;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+    font-size: auto;
+    border: 0.125rem solid var(--primary-color);
+    border-radius: var(--border-radius);
+    background: var(--card-background-color);
+}
+
+.SubjectHeader {
+    margin-bottom: 1rem;
+}
+
+.Subjects button {
+    max-width: 17.5rem;
+}
+
+.Subject .Icon {
+    margin-right: 0.5rem;
+}
+
+@media (min-width: 600px) {
+    .Subjects {
+        grid-template-columns: repeat(2, 15.625rem);
+    }
+    .Subject {
+        width: 15.625rem;
+    }
+    .Subjects button {
+        max-width: 15.625rem;
+    }
+}
+
+@media (min-width: 880px) {
+    .Subjects {
+        grid-template-columns: repeat(3, 15.625rem);
+    }
+}

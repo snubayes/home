@@ -1,0 +1,23 @@
+{
+  "interests": [
+    {
+      "label": "통계학",
+      "image": {
+        "src": "../../images/logo/icons8-area-chart-55.png",
+        "alt": "Statistics"
+      }
+    },
+    {
+      "label": "기계학습",
+      "image": {
+        "src": "../../images/logo/icons8-machine-learning-64.png",
+        "alt": "Machine Learning"
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 8
+  }
+}

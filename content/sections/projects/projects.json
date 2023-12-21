@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Seminar",
+      "title": "정기 세미나",
+      "description": "서울대학교 베이즈통계 연구실에서는 매 학기 세미나를 진행하고 있습니다. 세미나에서는 연구실 구성원 누구나 자신의 연구를 발표할 수 있습니다.",
+      "tags": ["Academic", "Research"],
+      "image": {
+        "src": "../../images/projects/seminar.jpg",
+        "alt": "Picture of the snubayes seminar",
+        "linkTo": "/blog"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "/blog"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Workshop",
+      "title": "워크샵",
+      "description": "서울대학교 베이즈통계 연구실에서는 비정기 워크샵을 진행하고 있습니다. 미리 주제를 선정하고 각자, 혹은 함께 공부하고 자유롭게 의견을 나누는 시간을 갖습니다.",
+      "tags": ["Academic", "Research"],
+      "image": {
+        "src": "../../images/projects/workshop.jpg",
+        "alt": "Picture of the snubayes workshop",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/snubayes/home"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/snubayes"
+  }
+}

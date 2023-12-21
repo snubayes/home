@@ -1,0 +1,18 @@
+{
+  "name": "서울대학교 베이즈통계 연구실",
+  "email": "labjang@snubayes.org",
+  "telephone": "02-880-8138",
+  "description": "서울대학교 베이즈통계 연구실에 관심이 있다면 편히 연락해주세요!",
+  "address": "서울대학교 25동 312 - 314호",
+  "image": {
+    "src": "../../images/logo/icon-512-w.png",
+    "alt": "Lab Logo"
+  },
+  "socialProfiles": {
+    "from": [
+      "Github",
+      "Mail"
+    ],
+    "showIcons": true
+  }
+}

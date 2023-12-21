@@ -1,0 +1,22 @@
+{
+  "intro": "안녕하세요!",
+  "heroPhoto": {
+    "src": "../../images/misc/Thomas_Bayes.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/misc/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "서울대학교 베이즈통계 연구실",
+  "subtitle": {
+    "prefix": "에서는 ",
+    "highlight": "베이즈 통계학",
+    "suffix": "과 관련된 모든 주제를 연구합니다."
+  },
+  "description": "",
+  "socialProfiles": {
+    "from": ["Github", "Mail"],
+    "showIcons": true
+  }
+}
