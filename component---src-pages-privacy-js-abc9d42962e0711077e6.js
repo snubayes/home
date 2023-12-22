@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksnubayes=self.webpackChunksnubayes||[]).push([[844],{8897:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var a=t(7294),l=t(3288);function u(){return a.createElement(a.Fragment,null,a.createElement(l.pQ,{title:"Privacy Policy",useTitleTemplate:!0,noIndex:!0}),a.createElement(l.T3,null,a.createElement(l.Ek,{sectionId:"privacy",heading:"개인 정보 보호"})))}}}]);
+//# sourceMappingURL=component---src-pages-privacy-js-abc9d42962e0711077e6.js.map

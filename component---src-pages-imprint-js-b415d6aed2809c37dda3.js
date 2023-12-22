@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksnubayes=self.webpackChunksnubayes||[]).push([[683],{3598:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var u=t(7294),l=t(3288);function r(){return u.createElement(u.Fragment,null,u.createElement(l.pQ,{title:"Imprint",useTitleTemplate:!0,noIndex:!0}),u.createElement(l.T3,null,u.createElement(l.Ek,{sectionId:"imprint",heading:"각인"})))}}}]);
+//# sourceMappingURL=component---src-pages-imprint-js-b415d6aed2809c37dda3.js.map
