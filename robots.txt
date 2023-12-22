@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://snubayes.org/sitemap-index.xml
-Host: https://snubayes.org
+Sitemap: https://snubayes.github.io/sitemap-index.xml
+Host: https://snubayes.github.io
