@@ -1,6 +1,6 @@
 # SNUBAYES
 
-이곳은 [서울대학교 베이즈통계 연구실 홈페이지](https://snubayes.org)의 소스코드를 관리하는 저장소입니다.
+이곳은 [서울대학교 베이즈통계 연구실 홈페이지](https://snubayes.github.io/home)의 소스코드를 관리하는 저장소입니다.
 
 ## 참고사항
 
@@ -20,9 +20,9 @@
 5. `npm run develop`을 실행하고 `http://localhost:8000`으로 접속하여 수정사항을 확인합니다.
 6. 수정사항을 commit하고 push합니다.
 7. pull request를 보냅니다.
-   1. `main` branch는 [홈페이지](https://snubayes.org)의 배포용 branch입니다.
+   1. `main` branch는 [홈페이지](https://snubayes.github.io/home)의 배포용 branch입니다.
    2. `prerelease` branch는 [테스트용 홈페이지](https://prerelease.snubayes.pages.dev)의 배포용 branch입니다.
 
 ## 참여하기
 
-서울대학교 베이즈통계 연구실에 함께하고 싶다면 [labjang@snubayes.org](mailto:labjang@snubayes.org)으로 문의주세요!
+서울대학교 베이즈통계 연구실에 함께하고 싶다면 [labjang@snubayes.github.io/home](mailto:labjang@snubayes.github.io/home)으로 문의주세요!
