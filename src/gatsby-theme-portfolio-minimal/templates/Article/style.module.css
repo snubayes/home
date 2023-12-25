@@ -93,7 +93,7 @@
 
 .Article img {
     max-height: 660px;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: var(--border-radius);
 }
 
