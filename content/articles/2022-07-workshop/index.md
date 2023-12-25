@@ -3,6 +3,8 @@ title: "2022년 여름 워크샵"
 date: "2022-07-31"
 categories:
   - "workshop"
+banner:
+  src: "./table.png"
 ---
 
 * 행사명 : 여름 베이즈 워크숍
@@ -18,7 +20,5 @@ categories:
 * 논문 증명 - "Beta-Mixture Shrinkage Prior and Sparse Covariance"
 
 ## 일정표
-
-![](./table.png)
 
 자세한 내용은 https://wiki.snubayes.org/lab/workshop/2022-summer-cov 에서 확인하실 수 있습니다.
