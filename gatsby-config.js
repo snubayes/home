@@ -5,7 +5,7 @@ module.exports = {
       options: {
         siteUrl: "https://beta.snubayes.org/", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/logo/icon-32-w.png", // Path is relative to the root
+          favicon: "./content/images/logo/snu/snu_ui_favicon.png", // Path is relative to the root
           siteName: "SNUBAYES", // Used in manifest.json
           shortName: "snubayes", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
