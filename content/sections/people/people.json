@@ -77,7 +77,7 @@
         "affiliation": "Seoul National University",
         "name": "Seongmin Kim",
         "description": "통계학과 박사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/smkim.jpeg",
           "alt": "profile picture of Seongmin Kim",
@@ -105,7 +105,7 @@
         "affiliation": "Seoul National University",
         "name": "Junghoon Oh",
         "description": "통계학과 박사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/jhoh.jpeg",
           "alt": "profile picture of Junghoon Oh",
@@ -133,7 +133,7 @@
         "affiliation": "Seoul National University",
         "name": "Changsu Shin",
         "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/csshin.jpeg",
           "alt": "profile picture of Changsu Shin",
@@ -161,7 +161,7 @@
         "affiliation": "Seoul National University",
         "name": "Seungchan Baek",
         "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/scbaek.jpeg",
           "alt": "profile picture of Seungchan Baek",
@@ -189,7 +189,7 @@
         "affiliation": "Seoul National University",
         "name": "Jaewook Han",
         "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/jwhan.jpeg",
           "alt": "profile picture of Jaewook Han",
@@ -217,7 +217,7 @@
         "affiliation": "Seoul National University",
         "name": "Hyunyeon Kim",
         "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "image": {
           "src": "../../images/people/hykim.jpeg",
           "alt": "profile picture of Hyunyeon Kim",
@@ -248,7 +248,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Yongchan Kwon",
         "affiliation": "Office of Admissions, SNU",
         "degree": "Ph.D. Alumni",
@@ -268,7 +268,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Seongil Jo",
         "affiliation": "Department of Statistics, Inha University",
         "degree": "Ph.D. Alumni",
@@ -294,7 +294,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Minkyu Han",
         "affiliation": "Hana Insititute of Technology",
         "degree": "Ph.D. Alumni",
@@ -314,7 +314,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Youngin Jo",
         "affiliation": "LINE Corporation",
         "degree": "Ph.D. Alumni",
@@ -334,7 +334,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Kyoungjae Lee",
         "affiliation": "Department of Statistics, SKKU",
         "degree": "Ph.D. Alumni",
@@ -360,7 +360,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Youngseon Lee",
         "affiliation": "Samsung SDS",
         "degree": "Ph.D. Alumni",
@@ -380,7 +380,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Hyunjoo Yang",
         "affiliation": "Samsung SDS",
         "degree": "Ph.D. Alumni",
@@ -400,7 +400,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Sewon Park",
         "affiliation": "Samsung SDS",
         "degree": "Ph.D. Alumni",
@@ -420,7 +420,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Kwangmin Lee",
         "affiliation": "University of wisconsin madison",
         "degree": "Ph.D. Alumni",
@@ -440,7 +440,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Jaegui Lee",
         "affiliation": "SK Innovation",
         "degree": "Ph.D. Alumni",
@@ -460,7 +460,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Jinwook Jung",
         "affiliation": "Department of Mathematics, JBNU",
         "contacts": [
@@ -479,7 +479,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Namjun Kwon",
         "affiliation": "Korea Communications Commission",
         "degree": "M.S. Alumni",
@@ -499,7 +499,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Myounglea Yi",
         "affiliation": "Nice Information Service",
         "degree": "M.S. Alumni",
@@ -519,7 +519,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Eunyeon Hwang",
         "affiliation": "Samsung Card",
         "degree": "M.S. Alumni",
@@ -539,7 +539,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Hyeseon Kim",
         "affiliation": "Financial Supervisory Service",
         "degree": "M.S. Alumni",
@@ -559,7 +559,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Raemi Doh",
         "affiliation": "KEB HANA Bank",
         "degree": "M.S. Alumni",
@@ -579,7 +579,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Seongye Oh",
         "affiliation": "Samsung Card",
         "degree": "M.S. Alumni",
@@ -599,7 +599,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Kihyeon Jo",
         "affiliation": "",
         "degree": "M.S. Alumni",
@@ -619,7 +619,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Seungwook Kim",
         "affiliation": "Armed Forces Capital Hospital",
         "degree": "M.S. Alumni",
@@ -639,7 +639,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Gubyeong Lee",
         "affiliation": "Financial Security Institute",
         "degree": "M.S. Alumni",
@@ -659,7 +659,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Eunha Lee",
         "affiliation": "Kakao Corp.",
         "degree": "M.S. Alumni",
@@ -679,7 +679,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Jung Yeon Park",
         "affiliation": "SK Telecom",
         "degree": "M.S. Alumni",
@@ -699,7 +699,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Minchul Kim",
         "affiliation": "Computer Science, Michigan State University (Doctor Candidate)",
         "degree": "M.S. Alumni",
@@ -725,7 +725,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Baraem Jeong",
         "affiliation": "LG CNS",
         "degree": "M.S. Alumni",
@@ -745,7 +745,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Suji Lee",
         "affiliation": "KCB",
         "degree": "M.S. Alumni",
@@ -765,7 +765,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Seokjin Han",
         "affiliation": "Standigm",
         "degree": "M.S. Alumni",
@@ -791,7 +791,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Suhyeon Lee",
         "affiliation": "Kakao Corp.",
         "degree": "M.S. Alumni",
@@ -811,7 +811,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Jaejoon Lee",
         "affiliation": "Samsung Electronics Co., Ltd.",
         "degree": "M.S. Alumni",
@@ -837,7 +837,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Wonseok Lee",
         "affiliation": "DB Asset Management Co., LTD.",
         "degree": "M.S. Alumni",
@@ -857,7 +857,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Suwon Park",
         "affiliation": "Haedosa",
         "degree": "M.S. Alumni",
@@ -877,7 +877,7 @@
           "linkTo": ""
         },
         "alumni": true,
-        "subjects": ["Unknown"],
+        "subjects": ["Bayesian statistics"],
         "name": "Taeyoung Chang",
         "affiliation": "University of Minnesota",
         "degree": "M.S. Alumni",
