@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "kr",
-    "siteUrl": "https://snubayes.github.io/home/",
+    "siteUrl": "https://beta.snubayes.org/",
     "title": "SNUBAYES",
     "titleTemplate": "%s · SNUBAYES",
     "thumbnail": "../content/images/logo/snubayes-og.png",
@@ -14,7 +14,7 @@
       "github": "https://github.com/snubayes",
       "medium": "",
       "linkedin": "",
-      "mail": "mailto:labjang@snubayes.github.io/home"
+      "mail": "mailto:labjang@snubayes.org"
     }
   },
   "siteConfiguration": {
