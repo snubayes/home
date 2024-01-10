@@ -25,7 +25,7 @@
 
 ## 참여하기
 
-서울대학교 베이즈통계 연구실에 함께하고 싶다면 [labjang@snubayes.org](mailto:labjang@snubayes.org)으로 문의주세요!
+서울대학교 베이즈통계 연구실에 함께하고 싶다면 [snubayes@gmail.com](mailto:snubayes@gmail.com)으로 문의주세요!
 
 
 ## To Do List
