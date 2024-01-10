@@ -14,7 +14,9 @@ export function PeopleSection(props: PageSection): React.ReactElement {
 
     const shouldShowButton = data.button !== undefined && data.button.visible !== false;
     const [shownAlumni, setShownAlumni] = React.useState<boolean>(
-        shouldShowButton ? false : true
+        // always show alumni!
+        // shouldShowButton ? false : true
+        true
     );
 
     function loadAlumniHandler() {
