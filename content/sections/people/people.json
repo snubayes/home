@@ -760,14 +760,14 @@
       {
         "visible": true,
         "image": {
-          "src": "../../images/people/sjhan.png",
+          "src": "../../images/people/sjhan.jpeg",
           "alt": "profile picture of Seokjin Han",
           "linkTo": ""
         },
         "alumni": true,
         "subjects": ["Bayesian statistics"],
         "name": "Seokjin Han",
-        "affiliation": "Standigm",
+        "affiliation": "Twelve Labs",
         "degree": "M.S. Alumni",
         "contacts": [
           {
@@ -776,6 +776,10 @@
           }
         ],
         "links": [
+          {
+            "type": "github",
+            "url": "https://github.com/raifthenerd"
+          },
           {
             "type": "external",
             "url": "https://blog.raifthenerd.com"
