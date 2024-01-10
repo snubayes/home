@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://beta.snubayes.org/", // Used for sitemap generation
+        siteUrl: "https://snubayes.org/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/logo/snu/snu_ui_favicon.png", // Path is relative to the root
           siteName: "SNUBAYES", // Used in manifest.json
