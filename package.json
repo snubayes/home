@@ -12,21 +12,10 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "core-js": "^3.36.1",
-    "gatsby": "^5.13.3",
-    "gatsby-plugin-manifest": "^5.13.0",
-    "gatsby-source-google-calendar": "^1.1.3",
+    "gatsby": "^5",
     "gatsby-theme-portfolio-minimal": "^4.6.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-helmet": "^6.1.0",
-    "react-icons": "^5.0.1",
-    "seedrandom": "^3.0.5"
-  },
-  "devDependencies": {
-    "gatsby-plugin-gdpr-cookies": "github:andrezimpel/gatsby-plugin-gdpr-cookies",
-    "gatsby-plugin-plausible": "file:./local_modules/gatsby-plugin-plausible",
-    "sharp": "^0.33.3"
+    "seedrandom": "3.0.5",
+    "react-icons": "5.2.1"
   },
   "author": "Kyeongwon Lee <lkw1718@snu.ac.kr>",
   "license": "0BSD",
