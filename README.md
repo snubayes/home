@@ -8,6 +8,8 @@
 
 홈페이지는 [Cloudflare Pages](https://pages.cloudflare.com)로 배포되고 있으며, 도메인 관리도 Cloudflare에서 이루어지고 있습니다.
 
+배포 자동화는 [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action)을 바탕으로 작성하였으며 `main` branch에 push하면 [홈페이지](https://snubayes.org)가 자동으로 업데이트됩니다. 이를 위해 적당한 환경변수들을 설정해주어야 합니다.
+
 ## 수정 방법
 
 1. 이 저장소를 clone합니다.
