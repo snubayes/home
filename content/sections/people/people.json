@@ -191,6 +191,42 @@
     },
     {
       "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Jisoo Kang",
+      "description": "통계학과 박사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/IMG_2271.JPG",
+        "alt": "profile picture of Jisoo Kang",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "kangjs13@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "Ph.D. Student"
+    },
+    {
+      "visible": true,
       "image": {
         "src": "../../images/people/njkwon.png",
         "alt": "profile picture of Namjun Kwon",
