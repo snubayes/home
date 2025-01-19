@@ -84,14 +84,14 @@
     {
       "visible": true,
       "affiliation": "Seoul National University",
-      "name": "Junghoon Oh",
+      "name": "Jeunghun Oh",
       "description": "통계학과 박사과정생입니다.",
       "subjects": [
         "Bayesian statistics"
       ],
       "image": {
         "src": "../../images/people/jhoh.jpeg",
-        "alt": "profile picture of Junghoon Oh",
+        "alt": "profile picture of Jeunghun Oh",
         "linkTo": ""
       },
       "alumni": false,
@@ -111,7 +111,7 @@
         {
           "type": "office",
           "content": [
-            "25-312"
+            "25-313"
           ]
         }
       ],
