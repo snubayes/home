@@ -14,8 +14,23 @@
   "dependencies": {
     "gatsby": "^5",
     "gatsby-theme-portfolio-minimal": "^4.6.5",
-    "seedrandom": "3.0.5",
-    "react-icons": "5.2.1"
+    "seedrandom": "^3.0.5",
+    "react-icons": "^5"
+  },
+  "overrides": {
+    "gatsby-theme-portfolio-minimal": {
+      "gatsby-plugin-manifest": "^5",
+      "react-cookie-consent": "9.0.0"
+    },
+    "gatsby-plugin-plausible": {
+      "minimatch": "3.0.5"
+    },
+    "workbox-build": {
+      "core-js": "^3"
+    },
+    "react-server-dom-webpack@0.0.0-experimental-c8b778b7f-20220825": {
+      "react": "^18.2.0"
+    }
   },
   "author": "Kyeongwon Lee <lkw1718@snu.ac.kr>",
   "license": "0BSD",

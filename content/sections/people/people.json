@@ -1,908 +1,1207 @@
 {
-    "people": [
-      {
-        "visible": true,
-        "affiliation": "Seoul National Unversity",
-        "name": "Jaeyong Lee",
-        "description": "베이즈통계 연구실의 이재용 교수님입니다.",
-        "subjects": ["nonparametric model", "high-dimensional model"],
-        "image": {
-          "src": "../../images/people/jylee.png",
-          "alt": "profile picture of Jaeyong Lee",
-          "linkTo": ""
-        },
-        "links": [
-          {
-            "type": "external",
-            "url": "https://jylee749.wordpress.com"
-          }
-        ],
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-1321", "+82-2-883-6144 (Fax)"]
-          },
-          {
-            "type": "email",
-            "content": ["leejyc@gmail.com", "leej@stats.snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-314"]
-          }
-        ],
-        "alumni": false,
-        "degree": "Professor"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Seongmin Kim",
-        "description": "통계학과 박사과정생입니다.",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/smkim.jpeg",
-          "alt": "profile picture of Seongmin Kim",
-          "linkTo": ""
-        },
-        "alumni": false,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["zlatjdals@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "Ph.D. Student"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Junghoon Oh",
-        "description": "통계학과 박사과정생입니다.",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/jhoh.jpeg",
-          "alt": "profile picture of Junghoon Oh",
-          "linkTo": ""
-        },
-        "alumni": false,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["nomad1994@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "Ph.D. Student"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Jaewook Han",
-        "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/jwhan.jpeg",
-          "alt": "profile picture of Jaewook Han",
-          "linkTo": ""
-        },
-        "alumni": false,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["jwhanstat@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "M.S. Student"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Hyunyeon Kim",
-        "description": "통계학과 석사과정생입니다.",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/hykim.jpeg",
-          "alt": "profile picture of Hyunyeon Kim",
-          "linkTo": ""
-        },
-        "alumni": false,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["sfwdus@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "M.S. Student"
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/njkwon.png",
-          "alt": "profile picture of Namjun Kwon",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Namjun Kwon",
-        "affiliation": "Korea Communications Commission",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["betencourt@freechal.com"]
-          }
-        ],
-        "description": "Thesis: Posterior Approximation with Variational Method (2006)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/mlyi.png",
-          "alt": "profile picture of Myounglea Yi",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Myounglea Yi",
-        "affiliation": "Nice Information Service",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["fusion33@hanmail.net"]
-          }
-        ],
-        "description": "Thesis: A Prior Elicitation Method For The Normal Linear Model (2007)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/eyhwang.png",
-          "alt": "profile picture of Eunyeon Hwang",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Eunyeon Hwang",
-        "affiliation": "Samsung Card",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["flowerdream7@hanmail.net"]
-          }
-        ],
-        "description": "Thesis: Modeling The Trend Of Apartment Market Price In Seoul (2008)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/hskim.png",
-          "alt": "profile picture of Hyeseon Kim",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Hyeseon Kim",
-        "affiliation": "Financial Supervisory Service",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["inverse812@naver.com"]
-          }
-        ],
-        "description": "Thesis: Stock Price Prediction Of Korea Main Corporations via Optimal Selection Of Time Series Models (2009)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/rmdoh.png",
-          "alt": "profile picture of Raemi Doh",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Raemi Doh",
-        "affiliation": "KEB HANA Bank",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["doh1@lycos.co.kr"]
-          }
-        ],
-        "description": "Thesis: Stock Price Prediction Using Copula Functions (2010)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/syoh.png",
-          "alt": "profile picture of Seongye Oh",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Seongye Oh",
-        "affiliation": "Samsung Card",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["sungye001@hanmail.net"]
-          }
-        ],
-        "description": "Thesis: Volatility Estimation Of Kospi Index via SMC method (2010)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/khjo.png",
-          "alt": "profile picture of Kihyeon Jo",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Kihyeon Jo",
-        "affiliation": "",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["57727333@hanmail.net"]
-          }
-        ],
-        "description": "Thesis: Selection of Bayesian linear models with Korea stock price data (2011)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/yckwon.png",
-          "alt": "profile picture of Yongchan Kwon",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Yongchan Kwon",
-        "affiliation": "Office of Admissions, SNU",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["lepard74@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Prior Elicitation Methods in the Normal Linear Model (2013)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/swkim.png",
-          "alt": "profile picture of Seungwook Kim",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Seungwook Kim",
-        "affiliation": "Armed Forces Capital Hospital",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["tmzjem@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Bayesian analysis for the relationship between ASA grade and mortality (2013)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/sijo.png",
-          "alt": "profile picture of Seoungil Jo",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Seongil Jo",
-        "affiliation": "Department of Statistics, Inha University",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["statjs@jbnu.ac.kr"]
-          }
-        ],
-        "links": [
-          {
-            "type": "external",
-            "url": "https://sites.google.com/view/bstatjo"
-          }
-        ],
-        "description": "Thesis: Bayesian nonparametric modeling based on species sampling models (2014)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/mkhan.png",
-          "alt": "profile picture of Minkyu Han",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Minkyu Han",
-        "affiliation": "Hana Insititute of Technology",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["hanminkyu@hanafn.com"]
-          }
-        ],
-        "description": "Thesis: Typhoon Track Prediction using Bayesian Statistics Methods (2015)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/gblee.png",
-          "alt": "profile picture of Gubyeong Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Gubyeong Lee",
-        "affiliation": "Financial Security Institute",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["gublee87@gmail.com"]
-          }
-        ],
-        "description": "Thesis: Stock prediction using the PCA (2015)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/yijo.png",
-          "alt": "profile picture of Youngin Jo",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Youngin Jo",
-        "affiliation": "LINE Corporation",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["ivy0in@gmail.com"]
-          }
-        ],
-        "description": "Thesis: Dynamic density estimation with autoregressive Species Sampling Models (2016)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/ehlee.png",
-          "alt": "profile picture of Eunha Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Eunha Lee",
-        "affiliation": "Kakao Corp.",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["shine_annie@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: The introduction of Indian Buffet Process and its applications to high-dimensional problem (2016)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/kjlee.png",
-          "alt": "profile picture of Kyoungjae Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Kyoungjae Lee",
-        "affiliation": "Department of Statistics, SKKU",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["leekjstat@gmail.com"]
-          }
-        ],
-        "links": [
-          {
-            "type": "external",
-            "url": "https://sites.google.com/view/leekjstat"
-          }
-        ],
-      "description": "Thesis: Asymptotic Properties of Posteriors for Large Covariance Matrices (2017)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/jypark.jpg",
-          "alt": "profile picture of Jung Yeon Park",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Jung Yeon Park",
-        "affiliation": "SK Telecom",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["piaozhenyan@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: The application of dirichlet process mixture model to DNA microarray data (2017)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/yslee.png",
-          "alt": "profile picture of Youngseon Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Youngseon Lee",
-        "affiliation": "Samsung SDS",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["lysstat@gmail.com"]
-          }
-        ],
-        "description": "Thesis: Bayesian curve fitting for discontinuous functions using overcomplete system with multiple kernels (2018)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/mckim.png",
-          "alt": "profile picture of Minchul Kim",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Minchul Kim",
-        "affiliation": "Computer Science, Michigan State University (Doctor Candidate)",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["minchul.kim@snu.ac.kr"]
-          }
-        ],
-        "links": [
-          {
-            "type": "external",
-            "url": "https://mk-minchul.github.io"
-          }
-        ],
-      "description": "Thesis: High Dimensional MCMC using Multiple GPUs (2018)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/brjeong.png",
-          "alt": "profile picture of Baraem Jeong",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Baraem Jeong",
-        "affiliation": "LG CNS",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["jbr1026@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Introduction of Restricted Boltzmann Machine for recommender system and real data analysis (2018)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/sjlee.jpg",
-          "alt": "profile picture of Suji Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Suji Lee",
-        "affiliation": "KCB",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["suji93@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Korean speech recognition using Bayesian deep learning (2019)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/sjhan.jpeg",
-          "alt": "profile picture of Seokjin Han",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Seokjin Han",
-        "affiliation": "Twelve Labs",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["raifthenerd@snu.ac.kr"]
-          }
-        ],
-        "links": [
-          {
-            "type": "github",
-            "url": "https://github.com/raifthenerd"
-          },
-          {
-            "type": "external",
-            "url": "https://blog.raifthenerd.com"
-          }
-        ],
-      "description": "Thesis: De Novo Drug Design Using Deep Generative Models (2019)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/shlee.png",
-          "alt": "profile picture of Suhyeon Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Suhyeon Lee",
-        "affiliation": "Kakao Corp.",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["vx0918@naver.com"]
-          }
-        ],
-        "description": "Thesis: Prediction of defect rate via oversampling (2020)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/hjyang.png",
-          "alt": "profile picture of Hyunjoo Yang",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Hyunjoo Yang",
-        "affiliation": "Samsung SDS",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["santafe125@hanmail.net"]
-          }
-        ],
-        "description": "Thesis: Variational Bayes method for ordinary differential equation models(2021)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/swpark-15.jpg",
-          "alt": "profile picture of Sewon Park",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Sewon Park",
-        "affiliation": "Samsung SDS",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["swpark0413@gmail.com"]
-          }
-        ],
-        "description": "Thesis: Bayesian Nonparametric Regression via Overcomplete Systems with B-spline Bases(2021)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/kmlee.png",
-          "alt": "profile picture of Kwangmin Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Kwangmin Lee",
-        "affiliation": "University of wisconsin madison",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["my1989@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Post-Processed Posteriors for High-Dimensional Covariances(2021)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/jjlee.jpeg",
-          "alt": "profile picture of Jaejoon Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Jaejoon Lee",
-        "affiliation": "Samsung Electronics Co., Ltd.",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["jaejoonlee94@gmail.com"]
-          }
-        ],
-        "links": [
-          {
-            "type": "external",
-            "url": "https://lee-jaejoon.github.io/"
-          }
-        ],
-      "description": "Thesis: Robust sparse Bayesian infinite factor models (2021)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/wslee.jpeg",
-          "alt": "profile picture of Wonseok Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Wonseok Lee",
-        "affiliation": "DB Asset Management Co., LTD.",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["wonseoklee@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Scalable Bayesian Computation for Big Data(2021)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/swpark-20.jpeg",
-          "alt": "profile picture of Suwon Park",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Suwon Park",
-        "affiliation": "Haedosa",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["suwonpark@snu.ac.kr"]
-          }
-        ],
-        "description": "Thesis: Uncertainty Quantification of Neural Network Using Monte Carlo Dropout(2022)."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/jwjung.jpeg",
-          "alt": "profile picture of Jinwook Jung",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Jinwook Jung",
-        "affiliation": "Department of Mathematics, JBNU",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["warp100@snu.ac.kr"]
-          }
-        ],
-        "degree": "Post-Doctoral Researcher"
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/jglee.png",
-          "alt": "profile picture of Jaegui Lee",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Jaegui Lee",
-        "affiliation": "SK Innovation",
-        "degree": "Ph.D. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["jaegui925@naver.com"]
-          }
-        ],
-        "description": "Thesis: Bayesian inference of moment condition model with Bayesian bootstrap and constrained Dirichlet process(2023) ."
-      },
-      {
-        "visible": true,
-        "image": {
-          "src": "../../images/people/tychang.jpeg",
-          "alt": "profile picture of Taeyoung Chang",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "subjects": ["Bayesian statistics"],
-        "name": "Taeyoung Chang",
-        "affiliation": "University of Minnesota",
-        "degree": "M.S. Alumni",
-        "contacts": [
-          {
-            "type": "email",
-            "content": ["jtangy95@gmail.com"]
-          }
-        ],
-        "description": "Thesis: The Bayesian Mallows Rank Model for Individual Recommendation(2023)."
-      },      
-      {
-        "visible": true,
-        "affiliation": "Department of Statistics, Yonsei University",
-        "name": "Kyeongwon Lee",
-        "description": "Thesis: Asymptotic Analysis of Bayesian Neural Networks for Supervised Learning (2024).",
-        "subjects": ["Bayesian neural network", "high-dimensional model"],
-        "image": {
-          "src": "../../images/people/2017-kwlee-2024.jpg",
-          "alt": "profile picture of Kyeongwon Lee",
-          "linkTo": ""
-        },
-        "links": [
-          {
-            "type": "github",
-            "url": "https://github.com/kw-lee"
-          },
-          {
-            "type": "external",
-            "url": "https://kw-lee.github.io/"
-          }
-        ],
-        "alumni": true,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["kwlee1718@gmail.com"]
-          },
-          {
-            "type": "office",
-            "content": ["25-313"]
-          }
-        ],
-        "degree": "Ph.D. Alumni"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Changsu Shin",
-        "description": "Thesis: TBA(2024)",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/csshin.jpeg",
-          "alt": "profile picture of Changsu Shin",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["changsuuuu@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "M.S. Alumni"
-      },
-      {
-        "visible": true,
-        "affiliation": "Seoul National University",
-        "name": "Seungchan Baek",
-        "description": "Thesis: TBA(2024)",
-        "subjects": ["Bayesian statistics"],
-        "image": {
-          "src": "../../images/people/scbaek.jpeg",
-          "alt": "profile picture of Seungchan Baek",
-          "linkTo": ""
-        },
-        "alumni": true,
-        "contacts": [
-          {
-            "type": "tel",
-            "content": ["+82-2-880-8138"]
-          },
-          {
-            "type": "email",
-            "content": ["drbsc123@snu.ac.kr"]
-          },
-          {
-            "type": "office",
-            "content": ["25-312"]
-          }
-        ],
-        "degree": "M.S. Alumni"
-      }
-    ],
-    "button": {
+  "people": [
+    {
       "visible": true,
-      "label": "Alumni",
-      "url": ""
+      "affiliation": "Seoul National Unversity",
+      "name": "Jaeyong Lee",
+      "description": "베이즈통계 연구실의 이재용 교수님입니다.",
+      "subjects": [
+        "nonparametric model",
+        "high-dimensional model"
+      ],
+      "image": {
+        "src": "../../images/people/jylee.png",
+        "alt": "profile picture of Jaeyong Lee",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://jylee749.wordpress.com"
+        }
+      ],
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-1321",
+            "+82-2-883-6144 (Fax)"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "leejyc@gmail.com",
+            "leej@stats.snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-314"
+          ]
+        }
+      ],
+      "alumni": false,
+      "degree": "Professor"
     },
-    "subjects": {
-      "length": 5,
-      "label": "더보기",
-      "visible": true
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Seongmin Kim",
+      "description": "통계학과 박사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/smkim.jpeg",
+        "alt": "profile picture of Seongmin Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "zlatjdals@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "Ph.D. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Jeunghun Oh",
+      "description": "통계학과 박사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/jhoh.jpeg",
+        "alt": "profile picture of Jeunghun Oh",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "nomad1994@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-313"
+          ]
+        }
+      ],
+      "degree": "Ph.D. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Jaewook Han",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/jwhan.jpeg",
+        "alt": "profile picture of Jaewook Han",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "jwhanstat@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Hyunyeon Kim",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/hykim.jpeg",
+        "alt": "profile picture of Hyunyeon Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "sfwdus@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Jisoo Kang",
+      "description": "통계학과 박사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/jskang.JPG",
+        "alt": "profile picture of Jisoo Kang",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "kangjs13@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "Ph.D. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Junyeong Kim",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/jykim.jpg",
+        "alt": "profile picture of Junyeong Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "kjy2006207@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-303-1"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Hosu Kim",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/hskim_present.jpeg",
+        "alt": "profile picture of Hosu Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "gmlgh279@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-402"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/njkwon.png",
+        "alt": "profile picture of Namjun Kwon",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Namjun Kwon",
+      "affiliation": "Korea Communications Commission",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "betencourt@freechal.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Posterior Approximation with Variational Method (2006)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/mlyi.png",
+        "alt": "profile picture of Myounglea Yi",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Myounglea Yi",
+      "affiliation": "Nice Information Service",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "fusion33@hanmail.net"
+          ]
+        }
+      ],
+      "description": "Thesis: A Prior Elicitation Method For The Normal Linear Model (2007)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/eyhwang.png",
+        "alt": "profile picture of Eunyeon Hwang",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Eunyeon Hwang",
+      "affiliation": "Samsung Card",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "flowerdream7@hanmail.net"
+          ]
+        }
+      ],
+      "description": "Thesis: Modeling The Trend Of Apartment Market Price In Seoul (2008)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/hskim.png",
+        "alt": "profile picture of Hyeseon Kim",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Hyeseon Kim",
+      "affiliation": "Financial Supervisory Service",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "inverse812@naver.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Stock Price Prediction Of Korea Main Corporations via Optimal Selection Of Time Series Models (2009)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/rmdoh.png",
+        "alt": "profile picture of Raemi Doh",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Raemi Doh",
+      "affiliation": "KEB HANA Bank",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "doh1@lycos.co.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Stock Price Prediction Using Copula Functions (2010)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/syoh.png",
+        "alt": "profile picture of Seongye Oh",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Seongye Oh",
+      "affiliation": "Samsung Card",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "sungye001@hanmail.net"
+          ]
+        }
+      ],
+      "description": "Thesis: Volatility Estimation Of Kospi Index via SMC method (2010)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/khjo.png",
+        "alt": "profile picture of Kihyeon Jo",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Kihyeon Jo",
+      "affiliation": "",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "57727333@hanmail.net"
+          ]
+        }
+      ],
+      "description": "Thesis: Selection of Bayesian linear models with Korea stock price data (2011)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/yckwon.png",
+        "alt": "profile picture of Yongchan Kwon",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Yongchan Kwon",
+      "affiliation": "Office of Admissions, SNU",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "lepard74@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Prior Elicitation Methods in the Normal Linear Model (2013)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/swkim.png",
+        "alt": "profile picture of Seungwook Kim",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Seungwook Kim",
+      "affiliation": "Armed Forces Capital Hospital",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "tmzjem@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Bayesian analysis for the relationship between ASA grade and mortality (2013)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/sijo.png",
+        "alt": "profile picture of Seoungil Jo",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Seongil Jo",
+      "affiliation": "Department of Statistics, Inha University",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "statjs@jbnu.ac.kr"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sites.google.com/view/bstatjo"
+        }
+      ],
+      "description": "Thesis: Bayesian nonparametric modeling based on species sampling models (2014)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/mkhan.png",
+        "alt": "profile picture of Minkyu Han",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Minkyu Han",
+      "affiliation": "Hana Insititute of Technology",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "hanminkyu@hanafn.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Typhoon Track Prediction using Bayesian Statistics Methods (2015)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/gblee.png",
+        "alt": "profile picture of Gubyeong Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Gubyeong Lee",
+      "affiliation": "Financial Security Institute",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "gublee87@gmail.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Stock prediction using the PCA (2015)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/yijo.png",
+        "alt": "profile picture of Youngin Jo",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Youngin Jo",
+      "affiliation": "LINE Corporation",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "ivy0in@gmail.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Dynamic density estimation with autoregressive Species Sampling Models (2016)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/ehlee.png",
+        "alt": "profile picture of Eunha Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Eunha Lee",
+      "affiliation": "Kakao Corp.",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "shine_annie@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: The introduction of Indian Buffet Process and its applications to high-dimensional problem (2016)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/kjlee.png",
+        "alt": "profile picture of Kyoungjae Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Kyoungjae Lee",
+      "affiliation": "Department of Statistics, SKKU",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "leekjstat@gmail.com"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sites.google.com/view/leekjstat"
+        }
+      ],
+      "description": "Thesis: Asymptotic Properties of Posteriors for Large Covariance Matrices (2017)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/jypark.jpg",
+        "alt": "profile picture of Jung Yeon Park",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Jung Yeon Park",
+      "affiliation": "SK Telecom",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "piaozhenyan@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: The application of dirichlet process mixture model to DNA microarray data (2017)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/yslee.png",
+        "alt": "profile picture of Youngseon Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Youngseon Lee",
+      "affiliation": "Samsung SDS",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "lysstat@gmail.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Bayesian curve fitting for discontinuous functions using overcomplete system with multiple kernels (2018)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/mckim.png",
+        "alt": "profile picture of Minchul Kim",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Minchul Kim",
+      "affiliation": "Computer Science, Michigan State University (Doctor Candidate)",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "minchul.kim@snu.ac.kr"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "external",
+          "url": "https://mk-minchul.github.io"
+        }
+      ],
+      "description": "Thesis: High Dimensional MCMC using Multiple GPUs (2018)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/brjeong.png",
+        "alt": "profile picture of Baraem Jeong",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Baraem Jeong",
+      "affiliation": "LG CNS",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "jbr1026@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Introduction of Restricted Boltzmann Machine for recommender system and real data analysis (2018)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/sjlee.jpg",
+        "alt": "profile picture of Suji Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Suji Lee",
+      "affiliation": "KCB",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "suji93@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Korean speech recognition using Bayesian deep learning (2019)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/sjhan.jpeg",
+        "alt": "profile picture of Seokjin Han",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Seokjin Han",
+      "affiliation": "Twelve Labs",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "raifthenerd@snu.ac.kr"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/raifthenerd"
+        },
+        {
+          "type": "external",
+          "url": "https://blog.raifthenerd.com"
+        }
+      ],
+      "description": "Thesis: De Novo Drug Design Using Deep Generative Models (2019)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/shlee.png",
+        "alt": "profile picture of Suhyeon Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Suhyeon Lee",
+      "affiliation": "Kakao Corp.",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "vx0918@naver.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Prediction of defect rate via oversampling (2020)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/hjyang.png",
+        "alt": "profile picture of Hyunjoo Yang",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Hyunjoo Yang",
+      "affiliation": "Samsung SDS",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "santafe125@hanmail.net"
+          ]
+        }
+      ],
+      "description": "Thesis: Variational Bayes method for ordinary differential equation models(2021)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/swpark-15.jpg",
+        "alt": "profile picture of Sewon Park",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Sewon Park",
+      "affiliation": "Samsung SDS",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "swpark0413@gmail.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Bayesian Nonparametric Regression via Overcomplete Systems with B-spline Bases(2021)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/kmlee.png",
+        "alt": "profile picture of Kwangmin Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Kwangmin Lee",
+      "affiliation": "University of wisconsin madison",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "my1989@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Post-Processed Posteriors for High-Dimensional Covariances(2021)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/jjlee.jpeg",
+        "alt": "profile picture of Jaejoon Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Jaejoon Lee",
+      "affiliation": "Samsung Electronics Co., Ltd.",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "jaejoonlee94@gmail.com"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "external",
+          "url": "https://lee-jaejoon.github.io/"
+        }
+      ],
+      "description": "Thesis: Robust sparse Bayesian infinite factor models (2021)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/wslee.jpeg",
+        "alt": "profile picture of Wonseok Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Wonseok Lee",
+      "affiliation": "DB Asset Management Co., LTD.",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "wonseoklee@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Scalable Bayesian Computation for Big Data(2021)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/swpark-20.jpeg",
+        "alt": "profile picture of Suwon Park",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Suwon Park",
+      "affiliation": "Haedosa",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "suwonpark@snu.ac.kr"
+          ]
+        }
+      ],
+      "description": "Thesis: Uncertainty Quantification of Neural Network Using Monte Carlo Dropout(2022)."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/jwjung.jpeg",
+        "alt": "profile picture of Jinwook Jung",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Jinwook Jung",
+      "affiliation": "Department of Mathematics, JBNU",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "warp100@snu.ac.kr"
+          ]
+        }
+      ],
+      "degree": "Post-Doctoral Researcher"
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/jglee.png",
+        "alt": "profile picture of Jaegui Lee",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Jaegui Lee",
+      "affiliation": "SK Innovation",
+      "degree": "Ph.D. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "jaegui925@naver.com"
+          ]
+        }
+      ],
+      "description": "Thesis: Bayesian inference of moment condition model with Bayesian bootstrap and constrained Dirichlet process(2023) ."
+    },
+    {
+      "visible": true,
+      "image": {
+        "src": "../../images/people/tychang.jpeg",
+        "alt": "profile picture of Taeyoung Chang",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "name": "Taeyoung Chang",
+      "affiliation": "University of Minnesota",
+      "degree": "M.S. Alumni",
+      "contacts": [
+        {
+          "type": "email",
+          "content": [
+            "jtangy95@gmail.com"
+          ]
+        }
+      ],
+      "description": "Thesis: The Bayesian Mallows Rank Model for Individual Recommendation(2023)."
+    },
+    {
+      "visible": true,
+      "affiliation": "Department of Statistics, Yonsei University",
+      "name": "Kyeongwon Lee",
+      "description": "Thesis: Asymptotic Analysis of Bayesian Neural Networks for Supervised Learning (2024).",
+      "subjects": [
+        "Bayesian neural network",
+        "high-dimensional model"
+      ],
+      "image": {
+        "src": "../../images/people/2017-kwlee-2024.jpg",
+        "alt": "profile picture of Kyeongwon Lee",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/kw-lee"
+        },
+        {
+          "type": "external",
+          "url": "https://kw-lee.github.io/"
+        }
+      ],
+      "alumni": true,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "kwlee1718@gmail.com"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-313"
+          ]
+        }
+      ],
+      "degree": "Ph.D. Alumni"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Changsu Shin",
+      "description": "Thesis: TBA(2024)",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/csshin.jpeg",
+        "alt": "profile picture of Changsu Shin",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "changsuuuu@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "M.S. Alumni"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Seungchan Baek",
+      "description": "Thesis: TBA(2024)",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/scbaek.jpeg",
+        "alt": "profile picture of Seungchan Baek",
+        "linkTo": ""
+      },
+      "alumni": true,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "drbsc123@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-312"
+          ]
+        }
+      ],
+      "degree": "M.S. Alumni"
     }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Alumni",
+    "url": ""
+  },
+  "subjects": {
+    "length": 5,
+    "label": "더보기",
+    "visible": true
   }
-  
+}
