@@ -227,6 +227,78 @@
     },
     {
       "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Junyeong Kim",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/jykim.jpg",
+        "alt": "profile picture of Junyeong Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "kjy2006207@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-303-1"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
+      "affiliation": "Seoul National University",
+      "name": "Hosu Kim",
+      "description": "통계학과 석사과정생입니다.",
+      "subjects": [
+        "Bayesian statistics"
+      ],
+      "image": {
+        "src": "../../images/people/hskim_present.JPG",
+        "alt": "profile picture of Hosu Kim",
+        "linkTo": ""
+      },
+      "alumni": false,
+      "contacts": [
+        {
+          "type": "tel",
+          "content": [
+            "+82-2-880-8138"
+          ]
+        },
+        {
+          "type": "email",
+          "content": [
+            "gmlgh279@snu.ac.kr"
+          ]
+        },
+        {
+          "type": "office",
+          "content": [
+            "25-402"
+          ]
+        }
+      ],
+      "degree": "M.S. Student"
+    },
+    {
+      "visible": true,
       "image": {
         "src": "../../images/people/njkwon.png",
         "alt": "profile picture of Namjun Kwon",
