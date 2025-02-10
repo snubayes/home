@@ -937,7 +937,7 @@
         "Bayesian statistics"
       ],
       "name": "Jaejoon Lee",
-      "affiliation": "Samsung Electronics Co., Ltd.",
+      "affiliation": "NICE Information Service",
       "degree": "M.S. Alumni",
       "contacts": [
         {
@@ -1024,7 +1024,7 @@
           ]
         }
       ],
-      "degree": "Post-Doctoral Researcher"
+      "degree": "Former Postdoctoral Researcher"
     },
     {
       "visible": true,
@@ -1076,7 +1076,7 @@
     },
     {
       "visible": true,
-      "affiliation": "Department of Statistics, Yonsei University",
+      "affiliation": "Department of Mathematics, University of Maryland",
       "name": "Kyeongwon Lee",
       "description": "Thesis: Asymptotic Analysis of Bayesian Neural Networks for Supervised Learning (2024).",
       "subjects": [
@@ -1101,21 +1101,9 @@
       "alumni": true,
       "contacts": [
         {
-          "type": "tel",
-          "content": [
-            "+82-2-880-8138"
-          ]
-        },
-        {
           "type": "email",
           "content": [
-            "kwlee1718@gmail.com"
-          ]
-        },
-        {
-          "type": "office",
-          "content": [
-            "25-313"
+            "kwlee@umd.edu"
           ]
         }
       ],
@@ -1123,7 +1111,7 @@
     },
     {
       "visible": true,
-      "affiliation": "Seoul National University",
+      "affiliation": "Samsung Electronics Co., Ltd.",
       "name": "Changsu Shin",
       "description": "Thesis: TBA(2024)",
       "subjects": [
@@ -1137,21 +1125,9 @@
       "alumni": true,
       "contacts": [
         {
-          "type": "tel",
-          "content": [
-            "+82-2-880-8138"
-          ]
-        },
-        {
           "type": "email",
           "content": [
             "changsuuuu@snu.ac.kr"
-          ]
-        },
-        {
-          "type": "office",
-          "content": [
-            "25-312"
           ]
         }
       ],
@@ -1159,7 +1135,7 @@
     },
     {
       "visible": true,
-      "affiliation": "Seoul National University",
+      "affiliation": "Seoul National Unversity",
       "name": "Seungchan Baek",
       "description": "Thesis: TBA(2024)",
       "subjects": [
@@ -1173,21 +1149,9 @@
       "alumni": true,
       "contacts": [
         {
-          "type": "tel",
-          "content": [
-            "+82-2-880-8138"
-          ]
-        },
-        {
           "type": "email",
           "content": [
             "drbsc123@snu.ac.kr"
-          ]
-        },
-        {
-          "type": "office",
-          "content": [
-            "25-312"
           ]
         }
       ],
