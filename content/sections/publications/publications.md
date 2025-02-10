@@ -5,7 +5,6 @@ sectionId: publications
 <!-- todo: add links for publications, update recent publications -->
 
 ## Working Papers
-* Kyoungjae Lee, Seongil Jo, Kyeongwon Lee, Jaeyong Lee. [Scalable and optimal Bayesian inference for sparse covariance matrices via screened beta-mixture prior.](https://arxiv.org/abs/2206.12773)
 * Kwangmin Lee, Seongmin Kim, Seongil Jo, and Jaeyong Lee. [Estimation of World Seroprevalence of SARS-CoV-2 Antibodies](http://arxiv.org/abs/2201.13124)
 * Bongjung Sung and Jaeyong Lee. [Covariance Structure Estimation with Laplace Approximation.](https://arxiv.org/abs/2111.02637)
 * Sewon Park and Jaeyong Lee. [Multivariate Levy Adaptive B-Spline Regression.](https://arxiv.org/abs/2108.11863)
@@ -14,6 +13,10 @@ sectionId: publications
 * Hyunjoo Yang and Jaeyong Lee. [Variational Bayes method for ODE parameter estimation with application to time-varying SIR model for Covid-19 epidemic.](https://arxiv.org/abs/2011.09718)
 
 ## Published or Acceptes Papers
+
+### 2024
+
+* Kyoungjae Lee, Seongil Jo, Kyeongwon Lee, Jaeyong Lee. (2024) [Scalable and optimal Bayesian inference for sparse covariance matrices via screened beta-mixture prior.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Scalable-and-Optimal-Bayesian-Inference-for-Sparse-Covariance-Matrices-via/10.1214/24-BA1495.full) Bayesian Analysis, 1(1), 1-28.
 
 ### 2023
 
