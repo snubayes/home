@@ -130,7 +130,7 @@
         "alt": "profile picture of Jaewook Han",
         "linkTo": ""
       },
-      "alumni": true,
+      "alumni": false,
       "contacts": [
         {
           "type": "tel",
@@ -166,7 +166,7 @@
         "alt": "profile picture of Hyunyeon Kim",
         "linkTo": ""
       },
-      "alumni": true,
+      "alumni": false,
       "contacts": [
         {
           "type": "tel",
